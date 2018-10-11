@@ -1,0 +1,12 @@
+Project:
+
+-Python version 3.52
+-To run: on Windows
+ 1-Open files location on CMD 
+ 2- type:  python project.py 
+
+           a- if python.exe is not added to the system path
+	   "python" has to be replaced by the full path of the python.exe file
+	    b- datasets and glove word2vec representation are uploaded
+	   
+
